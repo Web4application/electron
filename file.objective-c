@@ -1,0 +1,6 @@
+{
+   NSURLResponse = {
+      MIMEType = "application/javascript";
+      URL = "http://cryptocoinjs.com/modules/currency/eckey/";
+   };
+}
